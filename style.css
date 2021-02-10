@@ -1,0 +1,73 @@
+/* index.html */
+h1#encabezado{
+    color: brown;
+    position:relative;
+    left: 1020px;
+}
+
+p.carta{
+    color: brown;
+    position: relative;
+bottom: -100px;
+}
+
+p.cafe{
+    color: brown;
+    position: relative;
+    left: 1060px;
+    bottom: -240px;
+}
+
+
+
+p.contacto{
+    color:brown;
+    position: relative;
+    left: 1980px;
+    bottom: -620px;
+}
+
+/* posicionamiento y imágenes */
+
+img.imagencarta{
+    width: 150px;
+    height: 150px;
+    bottom: -50px; 
+    
+}
+
+img.imagencafe{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    bottom: -50px;
+}
+
+img.imagencontacto{
+    width: 150px;
+    height: 150px;
+    position:relative;
+    
+}
+/*Fin index.html*/
+
+/*cafe.html*/
+
+h1.encabezadocafe{
+    color: brown;
+    position:relative;
+    left: 1220px;
+    font-size: 40px;
+}
+
+p.parrafo1{
+    color: brown;
+    position: relative;
+    font-size: 27px;
+    
+}
+p.parrafo2{
+    color:brown;
+    position: relative;
+    font-size: 27px;
+}
